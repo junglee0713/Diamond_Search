@@ -1,0 +1,8 @@
+{
+    "__default__" :
+    {
+        "h_vmem" : "80G",
+        "mem_free" : "60G",
+        "m_mem_free" : "50G"
+    }
+}
