@@ -1,8 +1,3 @@
-###===
-### Rules for RNAseq processingfungal
-### BLAST against contigs
-###===
-
 from helper import *
 
 PROJECT_DIR = config["PROJECT_DIR"]
